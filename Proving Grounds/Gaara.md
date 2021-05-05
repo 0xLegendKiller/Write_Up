@@ -51,8 +51,8 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 ===============================================================
 ```
 Let's check them
-/Temari
-/Kazekage
+* /Temari
+* /Kazekage
 
 Same as Wikipedia page.
 ![image](https://user-images.githubusercontent.com/60841283/117126091-eeaf0500-adb7-11eb-888a-1ef96a74a174.png)
